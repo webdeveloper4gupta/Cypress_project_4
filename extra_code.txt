@@ -1,0 +1,21 @@
+// describe("Total number of elements on web page", () => {
+//     let totalCount=0;
+   
+//     it.only("Using Cypress Method", () => {
+//     cy.visit("https://www.tradeling.com/ae-en/catalog/audio-studio")
+//     //     cy.get("dl.chakra-stack.css-ioc31s")
+//     //         .find('>dd:contains("United Arab Emirates")').then((value) => {
+//     //             totalCount = Cypress.$(value).length;
+//     //             expect(value).to.have.length(totalCount);
+//     //         })
+//     })
+
+//     // it.only("Printing length => totalCount", () => {
+//     //    cy.log("*** length obtained is *** " + totalCount)
+
+//     // })
+
+
+
+
+// })

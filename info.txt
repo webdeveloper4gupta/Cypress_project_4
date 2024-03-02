@@ -1,0 +1,2 @@
+Here I using Cypress, Automate the website :
+url:https://rahulshettyacademy.com/seleniumPractise/#/
